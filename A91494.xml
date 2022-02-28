@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A particular journal of Major-Gen. Kirk's voyage from Leverpoole, to his safe arrival at London-Derry.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91494</idno>
+            <idno type="STC">Wing P592B</idno>
+            <idno type="STC">ESTC R492055</idno>
+            <idno type="EEBO-CITATION">45789368</idno>
+            <idno type="OCLC">ocm 45789368</idno>
+            <idno type="VID">172679</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91494)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172679)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2645:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A particular journal of Major-Gen. Kirk's voyage from Leverpoole, to his safe arrival at London-Derry.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Meade,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: heavily stained, with loss of text.</note>
+                  <note>Reproduction of original in: Christ Church (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Kirke, Percy, 1646?-1691.</term>
+               <term>Londonderry (Northern Ireland) --  History --  Siege, 1688-1689.</term>
+               <term>Ireland --  History --  War of 1689-1691.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="journal">
+            <pb n="1" facs="tcp:172679:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 39 -->
+            <head>A Particular JOURNAL OF Major-Gen. Kirk's Voyage From <hi>LEVERPOOLE,</hi> To his ſafe Arrival at London-Derry.</head>
+            <p>NOtwithſtanding the many falſe Rumours and Inſinuations which have of late been ſpread abroad by the <hi>Popiſh Party,</hi> to the diſadvantage of the Proteſtant Intereſt in general, but more eſpecially of that ſmall Remainder thereof in <hi>London-Derry</hi> and <hi>Enniskilling;</hi> we have now at laſt ſuch undeniable Cir<g ref="char:EOLhyphen"/>cumſtances and Proofs of Colonel <hi>Kirk</hi>'s being arrived, as will convince the hardeſt Believers. And becauſe the Curious have much enquir'd into the reaſon of Colonel <hi>Kirk</hi>'s being ſo long retain'd on his Voyage, it may not be unſatisfactory to give a particular Account thereof from the begin<g ref="char:EOLhyphen"/>ning, which take as follows:</p>
+            <p>Colonel <hi>Kirk</hi> having for ſome time had all things in a readineſs to ſail the firſt fair Wind; at laſt the Wind came up at <hi>N. N. E.</hi> a fair Gail on the 31ſt of <hi>May,</hi> and he ſet ſail with the three Regiments under his Com<g ref="char:EOLhyphen"/>mand, from <hi>Leverpool,</hi> with three Men of War and twenty four Sail of Merchant-Men, on which the Forces and all the Proviſions and Ammuni<g ref="char:EOLhyphen"/>tion were embarqued. But the next Morning, being <hi>Saturday</hi> the 1ſt of <hi>June,</hi> the Wind changing, he was forc'd to put into <hi>Ramſey-Bay,</hi> in the <hi>Iſle of Man,</hi> where by contrary Winds he was detained till the 5th; in that time ſeveral of the <hi>Iriſh</hi> Gentlemen who had fled hither, offering themſelves as Volunteers, were accordingly ſhip'd aboard.</p>
+            <p>On the 5th, being <hi>Wedneſday,</hi> the Wind coming up fair, they ſet ſail, and the Wind holding good but twenty four Hours, they were reſolved to beat it out at Sea as well as they could: ſo that on the <hi>Saturday,</hi> being the 8th, they got into <hi>Red-Bay</hi> in the Iſland of <hi>Rathlin,</hi> a ſmall Iſland a<g ref="char:EOLhyphen"/>bout two leagues from the Continent, and ſix Leagues from the Mouth of <hi>Lough Toyle:</hi> from thence Colonel <hi>Kirk</hi> ſent in a ſmall Yatcht to get Advice, who coming up to <hi>Culmore</hi> Fort, ſaw the <hi>Greyhound</hi> Frigat, who for want of a good Pilot, was left on the Sand by the Tide, ſo that ſhe
+<pb n="2" facs="tcp:172679:2"/>
+               <!-- PDF PAGE 40 -->lay expoſed to the Cannon of the Caſtle, which plaid upon her, though ſhe were not idle on her part to return their Salutes. But they having lodged themſelves there till the next. Tide, told the Yatcht what great Dofficulties there were in the Paſſage, as Bombs and ſunk Boats: Where<g ref="char:EOLhyphen"/>as we are certainly informed, that the River is as broad a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that place as our River of <hi>Thames</hi> between <hi>Lambeth</hi> and <hi>Weſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>minſter,</hi> beſides forty two <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oot Water when the Tide was in; ſo that 'twas impoſſible to choak up the River; and this Story was rather to excuſe their own Neglect, than otherwiſe.</p>
+            <p>However, the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> returned to Col. <hi>Kirk</hi> with this News, where upon, on the 12th, he wrote a Letter to D— <hi>S</hi>—, giving an Account where he was, and how he would break through all the Difficulties, if it were poſſible. So on the 13th at night he ſet ſail from that Bay, and on the Morrow, being <hi>Friday</hi> the 14th, he ſailed into <hi>Lough Toyle,</hi> and ſo away towards the Fort. For farther confirmation of this, there is one now come to Town, who left <hi>Dublin</hi> on <hi>Sunday</hi> the 16th of this inſtand, who aſſirms. That the morning he came away, an Expreſs was brought, that they ſaw on the 14th, a Fleet ſail into the <hi>Lough.</hi> Like<g ref="char:EOLhyphen"/>wiſe we have Advice from <hi>Glaſgow,</hi> in <hi>Scotland,</hi> of the 16th, from Sir <hi>William Gore,</hi> a Man of great Reputation, who ſays, That the Day be<g ref="char:EOLhyphen"/>fore, being the 15th, there came a Yatcht from Colonel <hi>Kirk,</hi> who left him the 14th in the Lough, going up the River, for this Yatcht cal<g ref="char:EOLhyphen"/>led at a place called <hi>Green-Caſtle</hi> in the ſaid Lough, and came to <hi>Greenthe</hi> twenty Miles from <hi>Glaſgow.</hi> He alſo adds, That two Men came thither that Morning, leaving <hi>London-Derry</hi> the 14th, and do depoſe, That that Day the Town's People, having Advice of a deſign the Enemy had to Attacque them in three places, did prevent them by a furious Sally on them; where, after a bloudy Engagement, there were about three or four Thouſand of the Enemy left on the ſpot; and amongſt them Lieu<g ref="char:EOLhyphen"/>tenant-Colonel <hi>Barker,</hi> who was Lieutenant-Colonel of the Royal Regi<g ref="char:EOLhyphen"/>ment of Foot. The People being encouraged thereto by the approach<g ref="char:EOLhyphen"/>ing Succors which they ſpied from their Towers.</p>
+            <p>On the 15th alſo, there was ſent from <hi>Glaſgow,</hi> two Ship laden with Proviſions, for <hi>London-Derry,</hi> having on board three Thouſand Barrels of Oat-Meal and other Proviſion, under the Convoy of the <hi>Gerſey</hi> Fri<g ref="char:EOLhyphen"/>gat: on which embarked a Hundred Gentlemen of <hi>Ireland</hi> as Volun<g ref="char:EOLhyphen"/>teers, encouraged by the joyful News they had received from thence of Major-General <hi>Kirk</hi>'s being there ſafely arrived at <hi>London-Derry,</hi> and all things in ſo happy a State.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed for <hi>George Meade.</hi> 1689.</p>
+            <pb n="2" facs="tcp:172679:3"/>
+            <!-- PDF PAGE 41 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
